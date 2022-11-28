@@ -1,0 +1,8 @@
+{
+  "name": "mini-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/breezefeng/mini-vue.git",
+  "author": "fengyuqing2012 <fengyuqing2012@dingtalk.com>",
+  "license": "MIT"
+}
